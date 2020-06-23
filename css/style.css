@@ -1,0 +1,53 @@
+/*Universal Style*/
+
+/*Header Style*/
+
+
+/*Content Style*/
+.single-post .nav-link i{
+	color:#000!important;
+}
+.single-post-image{
+	height: 250px;
+}
+.post-details span{
+	font-size:14px;
+	color:#fff!important;
+}
+
+/*Aside Style*/
+.recent-post .card-header{
+	height:120px!important;
+}
+.popular-post .card-header{
+	height:120px!important;
+}
+
+.recent-single-post-title{
+}
+
+/*Footer Style*/
+.footer-list li{
+	padding:4px 30px;
+}
+.footer-list a{
+	color:#fff;
+	font-size:18px;
+	font-style: italic;
+}
+.footer-description a{
+	color:#fff;
+	font-size:18px;
+	font-style: italic;
+}
+.footer-bottom{
+	background-color: #000000d9
+}
+
+
+
+
+
+/*Responsive Css*/
+
+
